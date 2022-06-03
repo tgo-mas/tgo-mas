@@ -5,12 +5,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40" />
 
 <div>
-<a href="https://github.com/tgo-mas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgo-mas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tgo-mas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/tgo-mas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgo-mas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tgo-mas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-[Snake Animation](https://github.com/tgo-mas/tgo-mas/blob/output/github-contribution-grid-snake.svg)
+ <div style="background-color: #222222;">
+   <img src="https://raw.githubusercontent.com/tgo-mas/tgo-mas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+ </div>
 
 ### Aprendendo
 
